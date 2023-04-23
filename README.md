@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bely66
 - 👀 I’m interested in AI, Psychology, Math and Physics
-- 🌱 I’m currently working as a Machine Learning Engineer at IN3
+- 🌱 I’m currently working as a Senior Machine Learning Engineer at IN3 and I'm getting my masters [IU for Applied Sciences in Berlin](https://www.iu.org/)
 - 💞️ I’m looking to collaborate on deep learning projects
 - 📫 How to reach me mohammdnabil66@gmail.com
 
